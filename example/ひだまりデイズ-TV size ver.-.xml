@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<l2c>
+    <define>
+        <translation>
+            <i name="简体中文">zh-Hans</i>
+        </translation>
+        <pn>
+            <i name="Rōmaji">roma</i>
+            <i name="かな">kana</i>
+        </pn>
+        <extension>
+            <i>SINGER</i>
+        </extension>
+        <ar>
+            <i>妹S(シスターズ)(土間うまる[CV.田中あいみ]、海老名菜々[CV.影山灯]、本場切絵[CV.白石晴香]、橘·シルフィンフォード[CV.古川由利奈])</i>
+        </ar>
+        <ti>
+            <i>ひだまりデイズ-TV size ver.-</i>
+        </ti>
+        <al>
+            <i>TVアニメ「干物妹!うまるちゃん」オリジナル・サウンドトラック</i>
+        </al>
+        <lr>
+            <i>真理絵</i>
+        </lr>
+        <cp>
+            <i>MANYO</i>
+        </cp>
+        <by>
+            <i>にこのおやつ</i>
+        </by>
+    </define>
+    <lyrics>
+        <s t="15290" d="6136" singer="土間" zh-Hans="总是在我身旁露出微笑 让我感受到你带给我的温暖">
+            <p t="15290" d="248" :roma="i">い</p>
+            <p t="15539" d="262" :roma="tsu">つ</p>
+            <p t="15801" d="127" roma="mo">も</p>
+            <p t="15929" d="574" :roma="chika" kana="ちか">近</p>
+            <p t="16503" d="270" roma="ku">く</p>
+            <p t="16773" d="293" roma="de">で</p>
+            <p t="17099" d="513" :roma="hoho" :kana="ほほ">微</p>
+            <p t="17613" d="439" :roma="e" :kana="え">笑</p>
+            <p t="18053" d="299" :roma="n">ん</p>
+            <p t="18352" d="410" roma="de">で</p>
+            <p t="18892" d="529" :roma="nuku" kana="ぬく">温</p>
+            <p t="19422" d="127" :roma="mo">も</p>
+            <p t="19549" d="349" roma="ri">り</p>
+            <p t="19899" d="450" :roma="kan" kana="かん">感</p>
+            <p t="20349" d="421" :roma="ji">じ</p>
+            <p t="20770" d="357" :roma="ru">る</p>
+        </s>
+        <s t="21498" d="6925" SINGER="海老名" zh-Hans="如此悠闲的时光">
+            <p t="21498" d="309" :roma="So">そ</p>
+            <p t="21808" d="344" :roma="n">ん</p>
+            <p t="22152" d="1401" roma="na">な</p>
+            <p t="23922" d="768" :roma="yasa" kana="やさ">優</p>
+            <p t="24690" d="564" :roma="shi">し</p>
+            <p t="25254" d="574" roma="i">い</p>
+            <p t="25829" d="757" :roma="ji" :kana="じ">時</p>
+            <p t="26586" d="1835" roma="kan" kana="かん">間</p>
+        </s>
+        <s t="29626" d="6192" SINGER="本場" zh-Hans="即使你离开 我也能察觉到 那像是恶作剧一般的眼神">
+            <p t="29626" d="553" :roma="Hana" kana="はな">離</p>
+            <p t="30180" d="55" :roma="re">れ</p>
+            <p t="30236" d="410" roma="te">て</p>
+            <p t="30646" d="238" :roma="i">い</p>
+            <p t="30884" d="188" roma="te">て</p>
+            <p t="31073" d="286" roma="mo">も</p>
+            <p t="31531" d="241" :roma="wa" kana="わ">分</p>
+            <p t="31772" d="219" :roma="ka">か</p>
+            <p t="31992" d="328" roma="ru">る</p>
+            <p t="32320" d="346" :roma="n">ん</p>
+            <p t="32667" d="450" roma="da">だ</p>
+            <p t="33324" d="230" :roma="i">イ</p>
+            <p t="33554" d="222" :roma="da">タ</p>
+            <p t="33777" d="119" :roma="zu">ズ</p>
+            <p t="33896" d="339" :roma="ra">ラ</p>
+            <p t="34235" d="135" roma="na">な</p>
+            <p t="34370" d="1175" roma="hitomi" kana="ひとみ">瞳</p>
+        </s>
+        <s t="35887" d="8488" SINGER="橘" zh-Hans="拥抱着如此漫不经心的日子">
+            <p t="35887" d="264" :roma="So">そ</p>
+            <p t="36152" d="288" :roma="n">ん</p>
+            <p t="36441" d="1541" roma="na">な</p>
+            <p t="38049" d="998" :roma="nani" :kana="なに">何</p>
+            <p t="39047" d="556" :roma="ge" kana="げ">気</p>
+            <p t="39603" d="675" :roma="na">な</p>
+            <p t="40279" d="609" roma="i">い</p>
+            <p t="40888" d="275" :roma="hi" :kana="ひ">日</p>
+            <p t="41163" d="460" roma="bi" kana="び">々</p>
+            <p t="41772" d="259" :roma="da" kana="だ">抱</p>
+            <p t="42032" d="609" :roma="ki">き</p>
+            <p t="42641" d="272" :roma="shi">し</p>
+            <p t="42914" d="1461" roma="me">め</p>
+        </s>
+        <s t="43086" d="7158" zh-Hans="不经意间(你看) 想呼喊出你的名字(你却仍然沉睡中)">
+            <p t="43086" d="346" :roma="Fu" SINGER="海老名">ふ</p>
+            <p t="43433" d="219" roma="i">い</p>
+            <p t="43653" d="593" roma="ni">に</p>
+            <p t="44246" d="434" :roma="na" :kana="な">名</p>
+            <p t="44680" d="1483" roma="mae" kana="まえ">前 </p>
+            <p t="45652" d="601" :roma="Ho" SINGER="橘">ほ</p>
+            <p t="46254" d="450" roma="ra">ら </p>
+            <p t="46704" d="264" :roma="Yo" kana="よ" SINGER="本場">呼</p>
+            <p t="46969" d="248" :roma="n">ん</p>
+            <p t="47218" d="593" roma="de">で</p>
+            <p t="47811" d="293" :roma="mi">み</p>
+            <p t="48105" d="601" roma="ta">た </p>
+            <p t="48783" d="442" :roma="Ne" kana="ね" SINGER="海老名">寝</p>
+            <p t="49225" d="219" :roma="bo">ぼ</p>
+            <p t="49445" d="193" roma="ke">け</p>
+            <p t="49638" d="267" :roma="te">て</p>
+            <p t="49906" d="339" roma="ru">る</p>
+        </s>
+        <s t="50245" d="7039" zh-Hans="这份率真的心情 能够毫无顾忌地告诉你吗">
+            <p t="50245" d="280" :roma="Su" :kana="す" SINGER="橘">素</p>
+            <p t="50525" d="937" :roma="nao" kana="なお">直</p>
+            <p t="51463" d="373" roma="na">な</p>
+            <p t="51836" d="439" :roma="ki" :kana="き">気</p>
+            <p t="52276" d="450" :roma="mo" kana="も">持</p>
+            <p t="52726" d="778" roma="chi">ち </p>
+            <p t="52808" d="1088" :roma="Mō" SINGER="本場">もう </p>
+            <p t="53685" d="924" :roma="Tsuta" kana="つた" SINGER="土間">伝</p>
+            <p t="54609" d="672" :roma="e">え</p>
+            <p t="55282" d="675" roma="te">て</p>
+            <p t="55957" d="442" :roma="i">い</p>
+            <p t="56400" d="206" roma="i">い</p>
+            <p t="56606" d="173" roma="ka">か</p>
+            <p t="56779" d="503" roma="na">な</p>
+        </s>
+        <s t="57284" d="1099" zh-Hans="不过 这一句"谢谢"却永远不会改变哦">
+            <p t="57284" d="211" :roma="A">ア</p>
+            <p t="57496" d="230" :roma="ri">リ</p>
+            <p t="57727" d="267" :roma="ga">ガ</p>
+            <p t="57994" d="389" roma="to">ト</p>
+        </s>
+        <s t="58383" d="7169" SINGER="妹S" zh-Hans="这份情谊永远都不会改变 你也始终都是带着灿烂的笑颜">
+            <p t="58383" d="241" :roma="Ka" kana="か">変</p>
+            <p t="58625" d="198" :roma="wa">わ</p>
+            <p t="58823" d="407" :roma="ra">ら</p>
+            <p t="59231" d="293" :roma="na">な</p>
+            <p t="59525" d="209" roma="i">い</p>
+            <p t="59734" d="405" roma="yo">よ</p>
+            <p t="60139" d="225" :roma="i">い</p>
+            <p t="60365" d="270" roma="tsu">つ</p>
+            <p t="60635" d="606" :roma="de">で</p>
+            <p t="61241" d="410" roma="mo">も</p>
+            <p t="61652" d="283" :roma="ki">キ</p>
+            <p t="61935" d="254" :roma="ra">ラ</p>
+            <p t="62189" d="233" :roma="ki">キ</p>
+            <p t="62422" d="402" roma="ra">ラ</p>
+            <p t="62862" d="214" :roma="e" :kana="え">笑</p>
+            <p t="63077" d="868" :roma="gao" kana="がお">顔</p>
+            <p t="63945" d="455" :roma="no">の</p>
+            <p t="64401" d="434" :roma="ma">ま</p>
+            <p t="64835" d="293" :roma="ma">ま</p>
+            <p t="65129" d="423" roma="de">で</p>
+        </s>
+        <s t="65553" d="7029" zh-Hans="一起走过的季节何其珍贵(我会一直珍藏着)">
+            <p t="65553" d="455" :roma="Aru" kana="ある" SINGER="土間 海老名">歩</p>
+            <p t="66008" d="447" :roma="i">い</p>
+            <p t="66456" d="447" roma="ta">た</p>
+            <p t="66904" d="100" :roma="ki" :kana="き">季</p>
+            <p t="67004" d="580" roma="setsu" kana="せつ">節</p>
+            <p t="67584" d="233" roma="wa">は</p>
+            <p t="67817" d="1300" :roma="takara" :kana="たから">宝</p>
+            <p t="69118" d="1144" roma="mono" kana="もの">物 </p>
+            <p t="70262" d="587" :roma="wasu" kana="わす" SINGER="本場 橘">忘</p>
+            <p t="70850" d="505" :roma="re">れ</p>
+            <p t="71356" d="482" :roma="na">な</p>
+            <p t="71891" d="214" :roma="i">い</p>
+            <p t="72052" d="225" :roma="ka">か</p>
+            <p t="72277" d="304" roma="ra">ら</p>
+        </s>
+        <s t="71570" d="5551" zh-Hans="总有一天会在梦境中 见到我们长大后的模样">
+            <p t="71570" d="203" :roma="I" SINGER="土間 海老名">い</p>
+            <p t="71774" d="233" :roma="tsu">つ</p>
+            <p t="72007" d="275" roma="ka">か</p>
+            <p t="72283" d="344" roma="wa">は</p>
+            <p t="72736" d="924" :roma="otona" kana="おとな" SINGER="妹S">大人</p>
+            <p t="73660" d="206" :roma="ni">に</p>
+            <p t="73866" d="202" :roma="na">な</p>
+            <p t="74068" d="360" roma="ru">る</p>
+            <p t="74428" d="270" :roma="so">そ</p>
+            <p t="74698" d="188" :roma="no">の</p>
+            <p t="74886" d="752" roma="hi" kana="ひ">日</p>
+            <p t="75638" d="415" roma="o">を</p>
+            <p t="76054" d="456" :roma="yume" :kana="ゆめ">夢</p>
+            <p t="76510" d="262" :roma="mi" kana="み">見</p>
+            <p t="76772" d="349" roma="te">て</p>
+        </s>
+        <s t="77121" d="7507" zh-Hans="现在就安静地在我旁边休憩吧">
+            <p t="77121" d="527" roma="ima" kana="いま">今</p>
+            <p t="77643" d="1035" roma="wa">は</p>
+            <p t="78679" d="782" roma="soba" kana="そば">側</p>
+            <p t="79461" d="1517" roma="de">で</p>
+            <p t="81110" d="726" :roma="nemu" kana="ねむ">眠</p>
+            <p t="81836" d="421" roma="ra">ら</p>
+            <p t="82258" d="487" :roma="se">せ</p>
+            <p t="82745" d="220" roma="te">て</p>
+            <p t="82965" d="1663" roma="ne">ね</p>
+        </s>
+    </lyrics>
+</l2c>
